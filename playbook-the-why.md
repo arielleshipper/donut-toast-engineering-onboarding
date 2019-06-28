@@ -1,10 +1,10 @@
-#The Why
+#  The Why
 
-##How to Get Them From First Day to First Commit
-A playbook for ramping new eng hires in record time from [Donut](http://www.donut.com) and [Toast] (https://www.post.toasttab.com).
+##  How to Get Them From First Day to First Commit
+A playbook for ramping new eng hires in record time from [Donut](http://www.donut.com) and [Toast] (http://www.post.toasttab.com).
 
 What makes for a successful new hire? There are three key indicators: engagement, retention, and productivity. Ultimately, all three impact your ability to succeed and the business’s bottom line. Optimizing for all three outcomes starts with onboarding. Good onboarding sets new hires up for success by enabling fast learning, integrating them into the team socially, and setting a clear definition for what success looks like.
-One particularly important metric for engineering teams is time to productivity. The [“productivity tax”] (https://www.cgsinc.com/blog/measure-onboarding-effectiveness-with-employee-time-to-productivity) as new hires ramp up is a universal challenge. Onboarding can cost [$4,000-$7,000] (https://medium.com/@kristenmaeve/the-cost-of-not-onboarding-your-new-hire-5ba94d83c57c) per employee—multiply that by the number of new hires you’re adding per year, and any incremental decreases in ramp time or increases in productivity can make a huge difference.
+One particularly important metric for engineering teams is time to productivity. The [“productivity tax”](https://www.cgsinc.com/blog/measure-onboarding-effectiveness-with-employee-time-to-productivity) as new hires ramp up is a universal challenge. Onboarding can cost [$4,000-$7,000](https://medium.com/@kristenmaeve/the-cost-of-not-onboarding-your-new-hire-5ba94d83c57c) per employee—multiply that by the number of new hires you’re adding per year, and any incremental decreases in ramp time or increases in productivity can make a huge difference.
 
 ###“Organizations with a standard onboarding process experience 50% greater new hire productivity.” - [SHRM](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/dont-underestimate-the-importance-of-effective-onboarding.aspx)
 
