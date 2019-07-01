@@ -1,7 +1,7 @@
 # For New Hires
-## Onboarding is an overwhelming time in a new hire’s employee lifecycle. They’re adjusting to new processes in a new environment with new people. There are so many unknowns.
+Onboarding is an overwhelming time in a new hire’s employee lifecycle. They’re adjusting to new processes in a new environment with new people. There are so many unknowns.
 
-How to combat those unknowns? The LifeLabs CAMPS model: creating Certainty, Autonomy, Meaning, Progress, and Social Inclusion. (Read more on the CAMPS model →) Each of these elements add up to creating familiarity and belonging as quickly as possible. Provide orientations and learning opportunities on process. Introduce new hires to buddies, peers, and team leads. Assign new hires a quick wins project to build experience and confidence right out of the gate. These individual building blocks provide new hires with the knowledge and support they’ll need to be successful.
+How to combat those unknowns? The LifeLabs CAMPS model: creating Certainty, Autonomy, Meaning, Progress, and Social Inclusion. [Read more on the CAMPS model →](https://www.donut.com/blog/lifelabs-transformative-onboarding-experience/) Each of these elements add up to creating familiarity and belonging as quickly as possible. Provide orientations and learning opportunities on process. Introduce new hires to buddies, peers, and team leads. Assign new hires a quick wins project to build experience and confidence right out of the gate. These individual building blocks provide new hires with the knowledge and support they’ll need to be successful.
 
 An important part of Toast’s strategy for imparting knowledge and creating belonging tackles each principle of the CAMPS model: Every new hire receives a Wiki that outlines an onboarding support team and helpful resources. New engineers also receive checklists that serve as a preview for what’s coming next, and a guideline for what to do during downtime.
 
