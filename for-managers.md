@@ -61,32 +61,32 @@ You’re not in this alone! You’ll have an entire support team working alongsi
 ## Toast’s Manager Prep Checklist
 
 **2 Weeks Before Start**
-:black_square_button: Place order for computer and any other hardware
-:black_square_button: Coordinate login provisioning with IT
-:black_square_button: Notify the team that the new hire has accepted, and provide background info
-:black_square_button: Complete and customize the onboarding plan for your new hire
+<br> :black_square_button: Place order for computer and any other hardware
+<br> :black_square_button: Coordinate login provisioning with IT
+<br> :black_square_button: Notify the team that the new hire has accepted, and provide background info
+<br> :black_square_button: Complete and customize the onboarding plan for your new hire
 
 **1 Week Before Start**
 _Scheduling_
-<br> :black_square_button: Plan the new hire’s first day, including orientation sessions, meetings, and lunch
-/n :black_square_button: Schedule 1:1s with key stakeholders
-  :black_square_button: Team lead
-  :black_square_button: Product manager
-  :black_square_button: Line manager
-  :black_square_button: Other
+<br> :black_square_button: Plan the new hire’s first day, including orientation sessions, meetings, and lunch 
+<br> :black_square_button: Schedule 1:1s with key stakeholders
+<br> :black_square_button: Team lead
+<br> :black_square_button: Product manager
+<br> :black_square_button: Line manager
+<br> :black_square_button: Other
   
 _Learning_
-:black_square_button: Create learning goals and KPIs for 30 day, 60 day, and 90 day milestones; update in onboarding plan
-:black_square_button: Identify a first ship/quick win project
+<br> :black_square_button: Create learning goals and KPIs for 30 day, 60 day, and 90 day milestones; update in onboarding plan
+<br> :black_square_button: Identify a first ship/quick win project
 
 _Housekeeping_
-:black_square_button: Assign new hire a desk
-:black_square_button: Pick and notify the onboarding buddy
-:black_square_button: Send the new hire calendar invites to recurring meetings 
-:black_square_button: Add the new hire to internal mailing lists
+<br> :black_square_button: Assign new hire a desk
+<br> :black_square_button: Pick and notify the onboarding buddy
+<br> :black_square_button: Send the new hire calendar invites to recurring meetings 
+<br> :black_square_button: Add the new hire to internal mailing lists
 
 **1 Weekday Before Start**
-:black_square_button: Send new hire a welcome email that includes:
+<br> :black_square_button: Send new hire a welcome email that includes:
   * Schedule for Day 1, including arrival time
   * Directions to the office 
   * Dress code
@@ -94,27 +94,27 @@ _Housekeeping_
   * Remind the onboarding buddy of new hire’s start date and their responsibilities
 
 **Day 1/Week 1**
-:black_square_button: Invite the new hire to mandatory Slack channels
-:black_square_button: Take new hire to lunch or coffee
-:black_square_button: Post a welcome message to the new hire in #general and/or #engineering
-:black_square_button: Introduce new hire to their onboarding buddy
-:black_square_button: Distribute new hire checklists
+<br> :black_square_button: Invite the new hire to mandatory Slack channels
+<br> :black_square_button: Take new hire to lunch or coffee
+<br> :black_square_button: Post a welcome message to the new hire in #general and/or #engineering
+<br> :black_square_button: Introduce new hire to their onboarding buddy
+<br> :black_square_button: Distribute new hire checklists
 
 **30 Days**
-:black_square_button: Congratulate the new hire on their first month via Slack or email
-:black_square_button: Hold a 1:1 to discuss 30-day goals and collect feedback
-:black_square_button: Get feedback from onboarding buddy on new hire’s progress
+<br> :black_square_button: Congratulate the new hire on their first month via Slack or email
+<br> :black_square_button: Hold a 1:1 to discuss 30-day goals and collect feedback
+<br> :black_square_button: Get feedback from onboarding buddy on new hire’s progress
 
 **60 Days**
-:black_square_button: Congratulate the new hire on 2 months via Slack or email
-:black_square_button: Hold a 1:1 to discuss 60-day goals and collect feedback
-:black_square_button: Get feedback from onboarding buddy on new hire’s progress
+<br> :black_square_button: Congratulate the new hire on 2 months via Slack or email
+<br> :black_square_button: Hold a 1:1 to discuss 60-day goals and collect feedback
+<br> :black_square_button: Get feedback from onboarding buddy on new hire’s progress
 
 **90 Days**
-:black_square_button: Congratulate the new hire on 3 months via Slack or email
-:black_square_button: Hold a 1:1 to discuss 90-day goals and collect feedback
-:black_square_button: Ask if the new hire would like to be a buddy for future new hires
-:black_square_button: Get feedback from onboarding buddyon new hire’s progress
+<br> :black_square_button: Congratulate the new hire on 3 months via Slack or email
+<br> :black_square_button: Hold a 1:1 to discuss 90-day goals and collect feedback
+<br> :black_square_button: Ask if the new hire would like to be a buddy for future new hires
+<br> :black_square_button: Get feedback from onboarding buddyon new hire’s progress
 
 **PS: Want to easily share this with your team? [Here’s a template in Google Sheets.](https://docs.google.com/spreadsheets/d/1RrRh1KXtxHAsC2_F8MC6w9r0RK_h6HqijwGeUKhSgXQ/edit#gid=0)**
 
