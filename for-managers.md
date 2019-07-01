@@ -74,6 +74,7 @@ _Scheduling_
   :black_square_button: Product manager
   :black_square_button: Line manager
   :black_square_button: Other
+  
 _Learning_
 :black_square_button: Create learning goals and KPIs for 30 day, 60 day, and 90 day milestones; update in onboarding plan
 :black_square_button: Identify a first ship/quick win project
