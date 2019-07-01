@@ -68,8 +68,8 @@ You’re not in this alone! You’ll have an entire support team working alongsi
 
 **1 Week Before Start**
 _Scheduling_
-:black_square_button: Plan the new hire’s first day, including orientation sessions, meetings, and lunch
-:black_square_button: Schedule 1:1s with key stakeholders
+<br> :black_square_button: Plan the new hire’s first day, including orientation sessions, meetings, and lunch
+/n :black_square_button: Schedule 1:1s with key stakeholders
   :black_square_button: Team lead
   :black_square_button: Product manager
   :black_square_button: Line manager
