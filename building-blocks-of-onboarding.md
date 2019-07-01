@@ -1,5 +1,5 @@
-#The Building Blocks of Onboarding
-##Onboarding is a team sport. This is your playbook.
+# The Building Blocks of Onboarding
+## Onboarding is a team sport. This is your playbook.
 
 All great onboarding processes start with a plan. That’s obvious. But how do you design an engineering-specific onboarding program that works?
 
@@ -18,7 +18,7 @@ Regardless of what your research uncovers, there are a few foundational onboardi
 
 While a mature onboarding process will have many or most of these foundational building blocks, you might be starting from scratch—and that’s okay. Just as Rome wasn’t built in a day, Toast built their onboarding process over time, and they’re still iterating based on both qualitative feedback and quantitative results. 
 
-Toast’s MVP was a giant Google doc where they could track tasks. The Google doc eventually evolved into scripts that streamlined setting up the dev environment, and a wiki page specifically for managers. Today, Toast has a sophisticated program complete with customized learning journeys, automated delivery of info and tasks to all stakeholders right in Slack, and a program for improving onboarding over time .  (Read more on the evolution of Toast’s onboarding process →)
+Toast’s MVP was a giant Google doc where they could track tasks. The Google doc eventually evolved into scripts that streamlined setting up the dev environment, and a wiki page specifically for managers. Today, Toast has a sophisticated program complete with customized learning journeys, automated delivery of info and tasks to all stakeholders right in Slack, and a program for improving onboarding over time . [Read more on the evolution of Toast’s onboarding process →](https://www.donut.com/blog/onboarding-engineers-at-toast/)
 
 Some questions to ask yourself about prioritizing implementation of building blocks:
 * Do we have any of these foundational building blocks in play today?
