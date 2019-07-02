@@ -116,6 +116,8 @@ _Housekeeping_
 <br> :black_square_button: Ask if the new hire would like to be a buddy for future new hires
 <br> :black_square_button: Get feedback from onboarding buddyon new hire’s progress
 
+[Create a supportive new hire onboarding process → ](for-new-hires.md)
+
 **PS: Want to easily share this with your team? [Here’s a template in Google Sheets.](https://docs.google.com/spreadsheets/d/1RrRh1KXtxHAsC2_F8MC6w9r0RK_h6HqijwGeUKhSgXQ/edit#gid=0)**
 
 [Automatically deliver this checklist right in Slack with Donut for Onboarding.](https://www.donut.com/onboarding)
