@@ -15,4 +15,4 @@ _Some questions to ask yourself about onboarding:_
 * What has the feedback on the new hire experience been (if any)?
 * How did you feel when you first joined the company? What did you like, and what resources or support do you wish had existed?
 
-[Read about the building blocks of great engineering onboarding →](www.donut.com)
+[Read about the building blocks of great engineering onboarding →](building-blocks-of-onboarding.md)
