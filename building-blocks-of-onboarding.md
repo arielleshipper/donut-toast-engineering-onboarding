@@ -27,4 +27,4 @@ Some questions to ask yourself about prioritizing implementation of building blo
 * Have new hires or managers specifically requested any of these building blocks?
 * Are there any gaps we identified through research that could be filled by one of these building blocks?
 
-Support managers as they onboard new engineers → 
+[Support managers as they onboard new engineers → ](for-managers.md)
